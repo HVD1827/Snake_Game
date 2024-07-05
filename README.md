@@ -11,7 +11,7 @@
 
 #### Rules:
 * The scoring is based on the number of fruits the snake eats and type of fruits.
-* The red one fetches you 1 point and the length of the snake by 1, similarly blue and yellow fetch you 2 and 4 points respectively.
+* The red one fetches you 1 point and length of the snake increases by 1, similarly blue and yellow fetch you 2 and 4 points respectively.
 * The snake starts with length 1, score 0 and if the snake collides with itself then it dies and game is over.
 * If the snake hits the boundaries then also it dies.
 * You can choose to "Play Again" or "Quit". If you play again, highest score will be displayed on top right corner for the chances you played.
