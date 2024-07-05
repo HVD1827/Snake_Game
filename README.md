@@ -22,4 +22,4 @@
 * `Right`: for changing direction to rightwards
 * `Left`: for changing direction to leftwards
 
-~hi~
+PS: ~I started this in my third semester, inspired by Snake.io~
